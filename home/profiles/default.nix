@@ -7,7 +7,9 @@
 	home.stateVersion = "25.11";
 
 	# Modules
-	imports = [];
+	imports = [
+		../modules/git.nix
+	];
 
 	# Files
 	home.file.".config/nvim".source = ../files/nvim;
