@@ -10,6 +10,7 @@
 	imports = [
 		../modules/git.nix
 		../modules/zsh.nix
+		../modules/starship.nix
 	];
 
 	# Files
