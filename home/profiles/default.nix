@@ -12,6 +12,7 @@
 		../modules/zsh.nix
 		../modules/starship.nix
 		../modules/ghostty.nix
+		../modules/fastfetch.nix
 	];
 
 	# Files
