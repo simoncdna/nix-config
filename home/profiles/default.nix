@@ -11,6 +11,7 @@
 		../modules/git.nix
 		../modules/zsh.nix
 		../modules/starship.nix
+		../modules/ghostty.nix
 	];
 
 	# Files
