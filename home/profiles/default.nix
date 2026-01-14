@@ -14,6 +14,7 @@
 		../modules/ghostty.nix
 		../modules/fastfetch.nix
 		../modules/quickshell.nix
+		../modules/sway.nix
 	];
 
 	# Files
