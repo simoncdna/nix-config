@@ -50,13 +50,15 @@
   # Enable CUPS to print documents.
   # services.printing.enable = true;
 
-  # Enable sound.
-  # services.pulseaudio.enable = true;
-  # OR
-  # services.pipewire = {
-  #   enable = true;
-  #   pulse.enable = true;
-  # };
+  # Enable sound with PipeWire
+  security.rtkit.enable = true;
+  services.pipewire = {
+    enable = true;
+    alsa.enable = true;
+    alsa.support32Bit = true;
+    pulse.enable = true;
+    jack.enable = true;
+  };
 
   # Enable touchpad support (enabled default in most desktopManager).
   # services.libinput.enable = true;
@@ -210,11 +212,11 @@ set-option -g renumber-windows on
 
   # programs.firefox.enable = true;
 
-  # Niri
-  # programs.sway.enable = true;
+  # SwayFX configuration
   programs.sway = {
   	enable = true;
 	package = pkgs.swayfx;
+	wrapperFeatures.gtk = true;
   };
 
   # Login manager minimal
@@ -249,6 +251,9 @@ set-option -g renumber-windows on
      brightnessctl
 
      wl-clipboard
+     grim
+     swaylock
+     swayidle
 
      claude-code
 
