@@ -34,9 +34,7 @@ return {
 					"jsonls", -- JSON
 					"html", -- HTML
 					"bashls", -- Bash
-					"clangd", -- C / C++
 					"dockerls", -- Docker
-					"gopls", -- Go
 				},
 			})
 
