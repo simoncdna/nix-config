@@ -3,6 +3,7 @@
   wayland.windowManager.sway = {
     enable = true;
     package = pkgs.swayfx;
+    checkConfig = false;  # Disable config check in sandbox
 
     config = rec {
       # Variables
@@ -176,12 +177,15 @@
       # Output configuration
       output = {
         "*" = {
-          bg = "../files/wallpapers/nix_bg.png fill";
+          bg = "${../files/wallpapers/nix_bg.png} fill";
         };
       };
 
       # Floating modifier
       floating.modifier = modifier;
+
+      # Disable default swaybar (using quickshell instead)
+      bars = [];
     };
 
     # SwayFX specific configuration
