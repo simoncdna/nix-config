@@ -11,6 +11,9 @@
       ./apple-silicon-support
     ];
 
+	# Enable notch
+	boot.kernelParams = [ "apple_dcp.show_notch=1" ];
+
   # Disable automatic firmware extraction (it's already installed)
   hardware.asahi.extractPeripheralFirmware = false;
 
