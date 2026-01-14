@@ -13,7 +13,7 @@
 	outputs = 
 		{ ... }@inputs: {
 			nixosConfigurations = {
-				nixos = inputs.nixpkgs.lib.nixosSystem {
+				nixos-mac = inputs.nixpkgs.lib.nixosSystem {
 					system = "aarch64-linux";
 					specialArgs = { inherit inputs; };
 					modules = [
