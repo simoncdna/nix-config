@@ -2,10 +2,10 @@
 {
 	programs.git = {
 		enable = true;
-		userName = "Simon Cardona";
-		userEmail = "simon.cdna@proton.me";
 
-		extraConfig = {
+		settings = {
+			user.name = "Simon Cardona";
+			user.email = "simon.cdna@proton.me";
 			init.defaultBranch = "main";
 			pull.rebase = true;
 		};
