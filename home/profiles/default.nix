@@ -13,6 +13,7 @@
 		../modules/starship.nix
 		../modules/ghostty.nix
 		../modules/fastfetch.nix
+		../modules/quickshell.nix
 	];
 
 	# Files
