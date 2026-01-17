@@ -1,13 +1,17 @@
-{ ... }:
+{ pkgs, ... }:
 {
+	home.packages = [
+		pkgs.nerd-fonts.jetbrains-mono
+	];
+
 	programs.ghostty = {
 		enable = true;
 
 		settings = {
 			theme = "rosepine";
 
-			font-family = "JetBrainsMonoNL Nerd Font";
-			font-size = 18;
+			font-family = "JetBrainsMono Nerd Font";
+			font-size = 10;
 
 			cursor-style = "block";
 			cursor-style-blink = false;

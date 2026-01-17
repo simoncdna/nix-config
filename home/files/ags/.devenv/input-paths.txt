@@ -1,0 +1,7 @@
+/home/simon/nix-config/home/files/ags/.devenv/flake.json
+/home/simon/nix-config/home/files/ags/.devenv.flake.nix
+/home/simon/nix-config/home/files/ags/.env
+/home/simon/nix-config/home/files/ags/devenv.local.nix
+/home/simon/nix-config/home/files/ags/devenv.lock
+/home/simon/nix-config/home/files/ags/devenv.nix
+/home/simon/nix-config/home/files/ags/devenv.yaml

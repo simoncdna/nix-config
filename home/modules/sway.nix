@@ -4,6 +4,7 @@
     enable = true;
     package = pkgs.swayfx;
     checkConfig = false;  # Disable config check in sandbox
+		wrapperFeatures.gtk = true;
 
     config = rec {
       # Variables
@@ -24,8 +25,8 @@
 
       # Gaps
       gaps = {
-        inner = 6;
-        outer = 6;
+        inner = 5;
+        outer = 5;
       };
 
       # Colors
@@ -191,7 +192,7 @@
     # SwayFX specific configuration
     extraConfig = ''
       # Corner radius (SwayFX feature)
-      corner_radius 8
+      corner_radius 0
 
       # Blur (SwayFX feature)
       blur enable

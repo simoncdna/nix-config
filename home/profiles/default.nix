@@ -13,8 +13,9 @@
 		../modules/starship.nix
 		../modules/ghostty.nix
 		../modules/fastfetch.nix
-		../modules/quickshell.nix
+		../modules/ags.nix
 		../modules/sway.nix
+		../modules/tmux.nix
 	];
 
 	# Files

@@ -1,0 +1,1274 @@
+{"level":"error","process":"dev","replica":0,"message":"Running tasks     devenv:processes:dev"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"Running           devenv:processes:dev"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0morg.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[33m[nodemon] master: <none>\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[33m[nodemon] to restart at any time, enter `rs`\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[33m[nodemon] watching path(s): *.*\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[33m[nodemon] watching extensions: scss,ts,tsx,js,jsx,json\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:8060): Gjs-Console-CRITICAL **: 17:05:43.166: CSS Error :5:3 No property named \"height\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:8118): Gjs-Console-CRITICAL **: 17:05:48.013: CSS Error :5:3 No property named \"height\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:8174): Gjs-Console-CRITICAL **: 17:05:49.510: CSS Error :5:3 No property named \"height\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:8232): Gjs-Console-CRITICAL **: 17:05:53.269: CSS Error :5:3 No property named \"height\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:10023): Gjs-Console-CRITICAL **: 17:10:51.063: CSS Error :13:3 No property named \"font-color\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:10082): Gjs-Console-CRITICAL **: 17:10:54.346: CSS Error :13:3 No property named \"font-color\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"Error: Expected hex digit."}
+{"level":"error","process":"dev","replica":0,"message":"   ╷"}
+{"level":"error","process":"dev","replica":0,"message":"17 │     background: #0000000;"}
+{"level":"error","process":"dev","replica":0,"message":"   │                         ^"}
+{"level":"error","process":"dev","replica":0,"message":"   ╵"}
+{"level":"error","process":"dev","replica":0,"message":"  home/simon/nix-config/home/files/ags/style.scss 17:25  root stylesheet"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mexit status 65\u001b[0m \u001b[1m\u001b[35m[plugin sass]\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    app.ts:2:18:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      2 │ import style from \u001b[32m\"./style.scss\"\u001b[37m"}
+{"level":"error","process":"dev","replica":0,"message":"        ╵                   \u001b[32m~~~~~~~~~~~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:36116): Gjs-Console-CRITICAL **: 17:37:59.271: CSS Error :11:14 Percentages are not allowed here"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:37794): Gjs-Console-CRITICAL **: 17:38:51.286: CSS Error :11:3 No property named \"width\""}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:44211): Gjs-Console-CRITICAL **: 17:44:45.930: CSS Error :11:14 Expected a number"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"Error: Undefined operation \"20px > centerbox\"."}
+{"level":"error","process":"dev","replica":0,"message":"   ╷"}
+{"level":"error","process":"dev","replica":0,"message":"10 │       min-height: 20px"}
+{"level":"error","process":"dev","replica":0,"message":"   │ ┌─────────────────^"}
+{"level":"error","process":"dev","replica":0,"message":"11 │ │ "}
+{"level":"error","process":"dev","replica":0,"message":"12 │ │   > centerbox {"}
+{"level":"error","process":"dev","replica":0,"message":"   │ └─────────────^"}
+{"level":"error","process":"dev","replica":0,"message":"   ╵"}
+{"level":"error","process":"dev","replica":0,"message":"  home/simon/nix-config/home/files/ags/style.scss 10:17  root stylesheet"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mexit status 65\u001b[0m \u001b[1m\u001b[35m[plugin sass]\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    app.ts:2:18:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      2 │ import style from \u001b[32m\"./style.scss\"\u001b[37m"}
+{"level":"error","process":"dev","replica":0,"message":"        ╵                   \u001b[32m~~~~~~~~~~~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"Error: Undefined operation \"20px > centerbox\"."}
+{"level":"error","process":"dev","replica":0,"message":"   ╷"}
+{"level":"error","process":"dev","replica":0,"message":"10 │     min-height: 20px"}
+{"level":"error","process":"dev","replica":0,"message":"   │ ┌───────────────^"}
+{"level":"error","process":"dev","replica":0,"message":"11 │ │ "}
+{"level":"error","process":"dev","replica":0,"message":"12 │ │   > centerbox {"}
+{"level":"error","process":"dev","replica":0,"message":"   │ └─────────────^"}
+{"level":"error","process":"dev","replica":0,"message":"   ╵"}
+{"level":"error","process":"dev","replica":0,"message":"  home/simon/nix-config/home/files/ags/style.scss 10:15  root stylesheet"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mexit status 65\u001b[0m \u001b[1m\u001b[35m[plugin sass]\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    app.ts:2:18:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      2 │ import style from \u001b[32m\"./style.scss\"\u001b[37m"}
+{"level":"error","process":"dev","replica":0,"message":"        ╵                   \u001b[32m~~~~~~~~~~~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"ags-Message: 17:48:56.790: hello"}
+{"level":"error","process":"dev","replica":0,"message":"ags-Message: 17:48:56.935: hello"}
+{"level":"error","process":"dev","replica":0,"message":"ags-Message: 17:48:57.097: hello"}
+{"level":"error","process":"dev","replica":0,"message":"ags-Message: 17:48:57.282: hello"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] clean exit - waiting for changes before restart\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0morg.freedesktop.DBus.Error.NoReply: Message recipient disconnected from message bus without replying"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:54271): Gjs-Console-CRITICAL **: 17:53:49.734: CSS Error :21:27 'pxpx' is not a valid unit"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:55797): Gjs-CRITICAL **: 17:55:48.746: JS ERROR: Error: unknown intrinsic element \"div\""}
+{"level":"error","process":"dev","replica":0,"message":"jsx@file:///run/user/1000/ags.js:1160:13 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/jsx.ts:253:19"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1974:25 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:31:5"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1987:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:55875): Gtk-WARNING **: 17:56:10.795: Trying to snapshot GtkBox 0x5555cb87b160 without a current allocation"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:55875): Gtk-WARNING **: 17:56:10.823: Trying to snapshot GtkBox 0x5555cb87b160 without a current allocation"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56019): Gtk-WARNING **: 17:56:22.344: Trying to snapshot GtkBox 0x55564008b5b0 without a current allocation"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56019): Gtk-WARNING **: 17:56:22.363: Trying to snapshot GtkBox 0x55564008b5b0 without a current allocation"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56191): Gtk-WARNING **: 17:56:36.289: Trying to snapshot GtkBox 0x5555fa02b460 without a current allocation"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56191): Gtk-WARNING **: 17:56:36.311: Trying to snapshot GtkBox 0x5555fa02b460 without a current allocation"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56753): Gtk-WARNING **: 17:57:35.928: Trying to snapshot GtkBox 0x555622ed0150 without a current allocation"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:56753): Gtk-WARNING **: 17:57:35.947: Trying to snapshot GtkBox 0x555622ed0150 without a current allocation"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:58611): Gjs-CRITICAL **: 18:06:54.397: JS ERROR: TypeError: ctor is not a constructor"}
+{"level":"error","process":"dev","replica":0,"message":"jsx@file:///run/user/1000/ags.js:1184:55 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/jsx.ts:285:57"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1979:27 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:35:6"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1994:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:58694): Gjs-CRITICAL **: 18:07:29.237: JS ERROR: TypeError: ctor is not a constructor"}
+{"level":"error","process":"dev","replica":0,"message":"jsx@file:///run/user/1000/ags.js:1184:55 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/jsx.ts:285:57"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1979:27 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:35:5"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1994:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:59133): Gjs-WARNING **: 18:08:31.474: JS ERROR: SyntaxError: The requested module 'gi://AstalBattery' doesn't provide an export named: 'Battery' @ file:///run/user/1000/ags.js:1814:10"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:59133): Gjs-CRITICAL **: 18:08:31.474: Failed to resolve imports for module: 'file:///run/user/1000/ags.js'"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0mexit status 1"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:59183): Gjs-CRITICAL **: 18:08:40.347: JS ERROR: TypeError: (intermediate value).default is not a function"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1955:27 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:10:26"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1992:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:59368): Gjs-CRITICAL **: 18:09:26.873: JS ERROR: Error: Wrong type number; string expected"}
+{"level":"error","process":"dev","replica":0,"message":"_init/Gtk.Widget.prototype._init@resource:///org/gnome/gjs/modules/core/overrides/Gtk.js:39:56"}
+{"level":"error","process":"dev","replica":0,"message":"jsx@file:///run/user/1000/ags.js:1184:55 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/jsx.ts:285:57"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1980:27 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:36:5"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1995:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:59482): Gjs-CRITICAL **: 18:09:32.360: JS ERROR: Error: Wrong type Function; string expected"}
+{"level":"error","process":"dev","replica":0,"message":"_init/Gtk.Widget.prototype._init@resource:///org/gnome/gjs/modules/core/overrides/Gtk.js:39:56"}
+{"level":"error","process":"dev","replica":0,"message":"jsx@file:///run/user/1000/ags.js:1184:55 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/jsx.ts:285:57"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1980:27 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:36:5"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1995:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mUnexpected \"}\"\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    widget/Bar.tsx:36:49:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      36 │         <label label={battery.percentage.toString() %\u001b[32m}\u001b[37m />"}
+{"level":"error","process":"dev","replica":0,"message":"         ╵                                                      \u001b[32m^\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:60365): Gjs-CRITICAL **: 18:11:53.641: JS ERROR: ReferenceError: can't access lexical declaration 'battery' before initialization"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1952:22 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:10:21"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1996:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:60443): Gjs-CRITICAL **: 18:11:55.648: JS ERROR: ReferenceError: percentage is not defined"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1980:42 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:40:12"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1995:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:60499): Gjs-CRITICAL **: 18:12:31.673: JS ERROR: ReferenceError: percentage is not defined"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1977:42 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:37:12"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1992:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:60549): Gjs-CRITICAL **: 18:12:37.644: JS ERROR: ReferenceError: percentage is not defined"}
+{"level":"error","process":"dev","replica":0,"message":"Bar@file:///run/user/1000/ags.js:1977:42 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:36:12"}
+{"level":"error","process":"dev","replica":0,"message":"main@file:///run/user/1000/ags.js:1992:32"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line/<@file:///run/user/1000/ags.js:1417:66 -> ../../../home/simon/nix-config/home/files/ags/app.ts:8:24"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot/<@file:///run/user/1000/ags.js:869:28 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:292:17"}
+{"level":"error","process":"dev","replica":0,"message":"run@file:///run/user/1000/ags.js:846:14 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:28"}
+{"level":"error","process":"dev","replica":0,"message":"createRoot@file:///run/user/1000/ags.js:869:16 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:32:20"}
+{"level":"error","process":"dev","replica":0,"message":"vfunc_command_line@file:///run/user/1000/ags.js:1414:17 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/node_modules/gnim/dist/jsx/scope.ts:184:18"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/gtk4/app.ts:290:13"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:60602): ags-WARNING **: 18:12:56.907: Accessor implicitly converted to a primitive value."}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mThe symbol \"time\" has already been declared\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    widget/Bar.tsx:10:7:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      10 │   const \u001b[32mtime\u001b[37m = createPoll(\"\", 1000, () => {"}
+{"level":"error","process":"dev","replica":0,"message":"         ╵         \u001b[32m~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"  The symbol \"time\" was originally declared here:"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    widget/Bar.tsx:7:8:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      7 │   const \u001b[32mtime\u001b[37m = createPoll(\"\", 1000, \"date\")"}
+{"level":"error","process":"dev","replica":0,"message":"        ╵         \u001b[32m~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31m✘ \u001b[41;31m[\u001b[41;97mERROR\u001b[41;31m]\u001b[0m \u001b[1mThe symbol \"time\" has already been declared\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    widget/Bar.tsx:10:7:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      10 │   const \u001b[32mtime\u001b[37m = createPoll(\"\", 1000, () => {"}
+{"level":"error","process":"dev","replica":0,"message":"         ╵         \u001b[32m~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"  The symbol \"time\" was originally declared here:"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"    widget/Bar.tsx:7:8:"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[37m      7 │   const \u001b[32mtime\u001b[37m = createPoll(\"\", 1000, \"date\")"}
+{"level":"error","process":"dev","replica":0,"message":"        ╵         \u001b[32m~~~~\u001b[0m"}
+{"level":"error","process":"dev","replica":0}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[31m[nodemon] app crashed - waiting for file changes before starting...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:62343): Gjs-CRITICAL **: 18:16:25.279: JS ERROR: ReferenceError: day is not defined"}
+{"level":"error","process":"dev","replica":0,"message":"Bar/time<@file:///run/user/1000/ags.js:1954:7 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:12:4"}
+{"level":"error","process":"dev","replica":0,"message":"compute@file:///run/user/1000/ags.js:1784:29 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/time.ts:112:27"}
+{"level":"error","process":"dev","replica":0,"message":"setTimeout/source<@resource:///org/gnome/gjs/modules/esm/_timers.js:72:9"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34"}
+{"level":"error","process":"dev","replica":0}
+{"level":"error","process":"dev","replica":0,"message":"(gjs:62343): Gjs-CRITICAL **: 18:16:26.239: JS ERROR: ReferenceError: day is not defined"}
+{"level":"error","process":"dev","replica":0,"message":"Bar/time<@file:///run/user/1000/ags.js:1954:7 -> ../../../home/simon/nix-config/home/files/ags/widget/Bar.tsx:12:4"}
+{"level":"error","process":"dev","replica":0,"message":"compute@file:///run/user/1000/ags.js:1784:29 -> ../../../nix/store/a3afannqjfsq2dcks5a685fppnwmwcc4-ags-js-lib/lib/time.ts:112:27"}
+{"level":"error","process":"dev","replica":0,"message":"setInterval/source<@resource:///org/gnome/gjs/modules/esm/_timers.js:98:9"}
+{"level":"error","process":"dev","replica":0,"message":"_init/GLib.MainLoop.prototype.runAsync/</<@resource:///org/gnome/gjs/modules/core/overrides/GLib.js:263:34"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0minstance \"ags\" is not runnning"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] restarting due to changes...\u001b[39m"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] still waiting for 1 sub-process to finish...\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: \u001b[0msignal: user defined signal 2"}
+{"level":"info","process":"dev","replica":0,"message":"\u001b[32m[nodemon] starting `ags quit; ags run -d .`\u001b[39m"}
+{"level":"error","process":"dev","replica":0,"message":"\u001b[31merror: 
