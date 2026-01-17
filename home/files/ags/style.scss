@@ -1,3 +1,10 @@
+// import
+@import './widget/Battery/style.scss';
+@import './widget/DesktopIcon/style.scss';
+@import './widget/Workspaces/style.scss';
+@import './widget/BarRight/style.scss';
+@import './widget/BarLeft/style.scss';
+
 // https://gitlab.gnome.org/GNOME/gtk/-/blob/gtk-3-24/gtk/theme/Adwaita/_colors-public.scss
 $fg-color: #{"@theme_fg_color"};
 $bg-color: #{"@theme_bg_color"};
@@ -12,31 +19,8 @@ window.Bar {
     background: transparent;
   }
 
-  btn-1 {
-    min-width: 100px;
-    background: #00000080;
-    margin: 5px 5px 0px 5px;
-    border-radius: 14px 6px 14px 0px;
-    color: #fff
-  }
-
   right-box {
     background-color: red;
   }
 
-  left {
-    background: #00000080;
-    margin: 5px 5px 0px 5px;
-    padding: 0 12px;
-    border-radius: 6px 14px 0px 14px;
-    color: #fff;
-  }
-
-  btn-2 {
-    > button {
-      background: transparent;
-      border: none;
-      box-shadow: none;
-    }
-  }
 }
