@@ -5,25 +5,23 @@ right {
   border-radius: 6px 14px 0px 14px;
   color: #fff;
 
-  btn-2 {
-    >button {
-      font-size: 12px;
-      font-weight: normal;
-      background: transparent;
-      border: none;
-      box-shadow: none;
-      width: fit-content;
-      margin: 0;
-      padding: 0;
-      margin-left: 8px;
-    }
+  button {
+    color: #fff;
+    font-weight: normal;
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    width: fit-content;
+    margin: 0;
+    padding: 0;
+    margin-left: 8px;
+  }
 
-    popover>contents {
-      margin-top: 8px;
-      margin-right: 6px;
-      border: 1px solid #cba6f7;
-      border-radius: 0px;
-      font-size: 10px;
-    }
+  popover>contents {
+    margin-top: 8px;
+    margin-right: 6px;
+    border: 1px solid #cba6f7;
+    border-radius: 0px;
+    font-size: 10px;
   }
 }
