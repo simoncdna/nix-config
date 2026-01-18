@@ -2,6 +2,7 @@
 @import './widget/Battery/style.scss';
 @import './widget/Wifi/style.scss';
 @import './widget/DesktopIcon/style.scss';
+@import './widget/PowerMenu/style.scss';
 @import './widget/Workspaces/style.scss';
 @import './widget/BarRight/style.scss';
 @import './widget/BarLeft/style.scss';
@@ -12,17 +13,10 @@ $bg-color: #{"@theme_bg_color"};
 
 window.Bar {
   background: transparent;
-  color: $fg-color;
   font-family: "JetBrainsMono Nerd Font", "JetBrains Mono", monospace;
-  font-weight: medium;
   font-size: 12px;
 
   > centerbox {
     background: transparent;
   }
-
-  right-box {
-    background-color: red;
-  }
-
 }
