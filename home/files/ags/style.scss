@@ -12,7 +12,8 @@ $bg-color: #{"@theme_bg_color"};
 window.Bar {
   background: transparent;
   color: $fg-color;
-  font-weight: bold;
+  font-family: "JetBrainsMono Nerd Font", "JetBrains Mono", monospace;
+  font-weight: medium;
   font-size: 12px;
 
   > centerbox {

@@ -1,9 +1,29 @@
 .battery {
-  color: #89b4fa;
+  margin-left: 12px;
 
   .battery-logo {
-    margin-right: 1px;
+    margin-right: 2px;
     font-size: 14px;
+
+    &.high {
+      color: #a6e3a1; // green
+    }
+
+    &.medium {
+      color: #94e2d5; // teal
+    }
+
+    &.low {
+      color: #fab387; // orange
+    }
+
+    &.critical {
+      color: #f38ba8; // red
+    }
+
+    &.charging {
+      color: #f9e2af; // yellow
+    }
   }
 }
 
