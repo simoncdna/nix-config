@@ -1,0 +1,16 @@
+.wifi-logo {
+  font-size: 14px;
+  margin-right: 8px;
+
+  &.activated {
+    color: #cba6f7; // purple
+  }
+
+  &.disabled {
+    color: #fab387; // orange
+  }
+
+  &.disactivated {
+    color: #f38ba8; // red
+  }
+}
