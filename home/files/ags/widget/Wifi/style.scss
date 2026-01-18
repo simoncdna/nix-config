@@ -1,16 +1,77 @@
-.wifi-logo {
-  font-size: 14px;
-  margin-right: 8px;
+.wifi {
 
-  &.activated {
-    color: #cba6f7; // purple
+  >button {
+    background: transparent;
+    border: none;
+    box-shadow: none;
+    width: fit-content;
+    margin: 0;
+    padding: 0;
   }
 
-  &.disabled {
-    color: #fab387; // orange
+  popover>contents {
+    margin-top: 8px;
+    border-radius: 0px;
+    font-size: 12px;
+    border: 1px solid #b4befe50;
+    background-color: #181825;
+    color: #fff;
+
+    .toggle-wrapper {
+      min-width: 200px;
+      border-bottom: 1px solid #bac2de;
+
+      .switch {
+        transform: scale(0.6);
+        transform-origin: right center;
+
+        &:checked {
+          background-color: #b4befe;
+        }
+      }
+    }
+
+    .list-wrapper {
+      padding: 4px 0px;
+
+      .network {
+        padding: 2px 0px;
+
+        .icon {
+          font-family: "JetBrainsMono Nerd Font Mono";
+          font-size: 16px;
+
+          &.active {
+            color: #a6e3a1;
+          }
+        }
+
+        .lock-icon {
+          margin-right: 4px;
+        }
+
+        &:hover {
+          background-color: #1e1e2e;
+        }
+      }
+
+    }
   }
 
-  &.disactivated {
-    color: #f38ba8; // red
+  .wifi-logo {
+    font-size: 12px;
+    margin-right: 8px;
+
+    &.activated {
+      color: #cba6f7; // purple
+    }
+
+    &.disabled {
+      color: #fab387; // orange
+    }
+
+    &.disactivated {
+      color: #f38ba8; // red
+    }
   }
 }
