@@ -172,7 +172,7 @@
 
       # Startup commands
       startup = [
-        { command = "quickshell"; }
+        { command = "ags run"; }
       ];
 
       # Output configuration
